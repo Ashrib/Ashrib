@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asharib
 - 👀 I’m interested in Web & app development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React-Native.
 - 📫 You can reach me on asharib920@gmail.com
 - ## ✉️ Find me on:
 
