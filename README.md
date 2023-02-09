@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Asharib
+- 👋 Hi, I’m MERN Stack Developer.
 - 👀 I’m interested in Web & app development.
 - 🌱 I’m currently learning React-Native.
 - 📫 You can reach me on asharib920@gmail.com
