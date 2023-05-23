@@ -26,6 +26,7 @@
 <img src="https://img.icons8.com/color/2x/react-native.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="react-native">
 <img src="https://www.nicepng.com/png/detail/242-2428861_pwa-progressive-web-app-logo-pwa-progressive-web.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="PWA">
 <img src="https://img.icons8.com/color/2x/firebase.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="Firebase">
+<img src="https://img.icons8.com/color/2x/dart.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="Dart">
                                                                            
 </p>
 <h3>My Github Stats:</h3>
