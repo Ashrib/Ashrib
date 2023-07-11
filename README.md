@@ -1,6 +1,6 @@
 Hi there 👋 , I’m Asharib Ali.
  <h5>MERN-Stack Web Developer || JavaScript Lover</h5>
- <h6>I am a MERN-stack web developer with passionated skills to develop web and problem-solving. Love to work on Javascript and React.</h6>
+ <h6>I am a MERN stack, with a strong passion for creating robust web applications and solving complex problems. I have developed deep expertise in JavaScript and React, and I thoroughly enjoy working with these technologies to build innovative and user-friendly websites.</h6>
 
 <p> I’m currently learning Flutter.</p>
 
