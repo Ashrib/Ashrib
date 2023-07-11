@@ -1,4 +1,4 @@
-- Hi there 👋 , I’m Asharib Ali.
+Hi there 👋 , I’m Asharib Ali.
  <h5>MERN-Stack Web Developer || JavaScript Lover</h5>
  <h6>I am a MERN-stack web developer with passionated skills to develop web and problem-solving. Love to work on Javascript and React.</h6>
 
