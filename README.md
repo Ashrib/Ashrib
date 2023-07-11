@@ -1,6 +1,8 @@
-- 👋 Hi, I’m MERN Stack Developer.
-- 👀 I’m interested in Web & app development.
-- 🌱 I’m currently learning Flutter.
+- Hi there 👋 , I’m Asharib Ali.
+ <h5>MERN-Stack Web Developer || JavaScript Lover</h5>
+ <h6>I am a MERN-stack web developer with passionated skills to develop web and problem-solving. Love to work on Javascript and React.</h6>
+
+<p> I’m currently learning Flutter.</p>
 - 📫 You can reach me on asharib920@gmail.com
 - ## ✉️ Find me on:
 
@@ -29,8 +31,6 @@
 <img src="https://img.icons8.com/color/2x/dart.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px" title="Dart">
                                                                            
 </p>
-<h3>My Github Stats:</h3>
-<img src="https://user-images.githubusercontent.com/101453901/210135454-f1439766-648b-4838-9709-fe5ea536c74c.PNG"/>
 
 <!---
 Ashrib/Ashrib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
