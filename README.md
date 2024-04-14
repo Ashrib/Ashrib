@@ -39,6 +39,9 @@
                                                                            
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrib&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <h2>🏆GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=Ashrib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
