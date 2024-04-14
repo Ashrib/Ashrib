@@ -1,5 +1,10 @@
-Hi there 👋 , I’m Asharib Ali.
- <h4>MERN-Stack Web Developer || JavaScript Lover</h4>
+<h1 align="center">Hi , I'm Asharib <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+  <center><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+Developer;Node+JS+Developer&center=true&width=500&height=50" width = "100%"></center>
+  
+  
+<h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
+
  <h5>I am a MERN stack, with a strong passion for creating robust web applications and solving complex problems. I have developed deep expertise in JavaScript and React, and I thoroughly enjoy working with these technologies to build innovative and user-friendly websites.</h5>
 
 <p> I’m currently learning Flutter.</p>
