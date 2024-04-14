@@ -15,7 +15,7 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/asharib-ali-581a46243/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:asharib920@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.facebook.com/profile.php?id=100008474139253"> <img src="[https://img.icons8.com/color/2x/facebook-new.png](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg)" alt="facebook" height="45" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.facebook.com/profile.php?id=100008474139253"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="45" style="vertical-align:top; margin:4px"></a>
 </p>
 <br />
 
