@@ -44,7 +44,7 @@
 
 <h2>🏆GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=Ashrib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Karizali&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <!---
