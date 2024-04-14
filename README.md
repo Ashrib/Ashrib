@@ -39,6 +39,11 @@
                                                                            
 </p>
 
+<h2>🏆GitHub Trophies</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=Ashrib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 <!---
 Ashrib/Ashrib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
