@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Asharib <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  <center><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+|+NodeJS+|+Firebase+|+Flutter;Learning+Python&center=true&width=500&height=50" width = "100%"></center>
+  <center><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+|+NodeJS+|+Firebase:NextJS;Learning+Python&center=true&width=500&height=50" width = "100%"></center>
   
   
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
@@ -11,7 +11,7 @@
 
 I build digital products that scale. From concept to deployment, I transform ideas into robust, high-performance applications.
 
-🛠️ Stack: MongoDB • Express • React • Node.js <br/>
+🛠️ Stack: MongoDB • Express • React • Node.js • Next.js <br/>
 ⚡ Mindset: Ship fast, iterate faster <br/>
 🎯 Philosophy: Code with purpose, build with passion <br/>
 
