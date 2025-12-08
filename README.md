@@ -67,13 +67,36 @@ Open to exciting opportunities and groundbreaking collaborations.</p>
 
 ### 👨‍💻 About Me
 
+<table>
+<tr>
+<td>
+
 🚀 **Full-Stack Developer** passionate about creating exceptional digital experiences
+
+</td>
+</tr>
+<tr>
+<td>
 
 💡 **Problem Solver** who transforms complex challenges into elegant solutions
 
+</td>
+</tr>
+<tr>
+<td>
+
 ⚡ **Tech Enthusiast** constantly learning and adapting to new technologies
 
+</td>
+</tr>
+<tr>
+<td>
+
 🎯 **Mission:** Building scalable, maintainable, and impactful applications
+
+</td>
+</tr>
+</table>
 
 🔭 Currently working on **innovative MERN stack projects**
 
@@ -101,44 +124,25 @@ Open to exciting opportunities and groundbreaking collaborations.</p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="45" height="45"/>
-</p>
-
-### Backend Development
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
-</p>
-
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45"/>
-</p>
-
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="45" height="45"/>
-</p>
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-</p>
-
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/pwa-logo.svg" alt="pwa" width="45" height="45"/>
 </p>
 
----
 
-
----
 
 ## 🤝 Connect With Me
 
@@ -173,8 +177,7 @@ Open to exciting opportunities and groundbreaking collaborations.</p>
 
 ⭐️ From [Asharib](https://github.com/Ashrib)
 
-</div>
-<!---
+</div><!---
 Ashrib/Ashrib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
