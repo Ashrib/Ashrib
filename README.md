@@ -11,9 +11,9 @@
 
 I build digital products that scale. From concept to deployment, I transform ideas into robust, high-performance applications.
 
-🛠️ Stack: MongoDB • Express • React • Node.js
-⚡ Mindset: Ship fast, iterate faster
-🎯 Philosophy: Code with purpose, build with passion
+🛠️ Stack: MongoDB • Express • React • Node.js <br/>
+⚡ Mindset: Ship fast, iterate faster <br/>
+🎯 Philosophy: Code with purpose, build with passion <br/>
 
 Open to exciting opportunities and groundbreaking collaborations.</p>
 
