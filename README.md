@@ -5,9 +5,17 @@
   
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
 
- <h5>I am a MERN stack, with a strong passion for creating robust web applications and solving complex problems. I have developed deep expertise in JavaScript and React, and I thoroughly enjoy working with these technologies to build innovative and user-friendly websites.</h5>
 
-<p> I’m currently learning Flutter.</p>
+
+<p>Full-Stack Developer | MERN Specialist | Problem Solver
+
+I build digital products that scale. From concept to deployment, I transform ideas into robust, high-performance applications.
+
+🛠️ Stack: MongoDB • Express • React • Node.js
+⚡ Mindset: Ship fast, iterate faster
+🎯 Philosophy: Code with purpose, build with passion
+
+Open to exciting opportunities and groundbreaking collaborations.</p>
 
 
 - ## Find me on:
