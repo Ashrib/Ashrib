@@ -1,8 +1,14 @@
 <div align="center">
   
 # Hi 👋, I'm Asharib Ali
+I build digital products that scale. From concept to deployment, I transform ideas into robust, high-performance applications.
+
+
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Applications;Open+to+Exciting+Opportunities" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=500&size=19&pause=1000&color=FFFFFF&width=435&separator=%3C&lines=console.log('Write+code+that+matters');" alt="Typing SVG" />
 
 </div>
 
@@ -18,42 +24,32 @@
 <tr>
 <td>
 
-🚀 **Full-Stack Developer** passionate about creating exceptional digital experiences
+🛠️ Stack: MongoDB • Express • React • Node.js
 
 </td>
 </tr>
 <tr>
 <td>
 
-💡 **Problem Solver** who transforms complex challenges into elegant solutions
+⚡ Mindset: Ship fast, iterate faster
 
 </td>
 </tr>
 <tr>
 <td>
 
-⚡ **Tech Enthusiast** constantly learning and adapting to new technologies
+🎯 Philosophy: Code with purpose, build with passion
 
 </td>
 </tr>
-<tr>
-<td>
 
-🎯 **Mission:** Building scalable, maintainable, and impactful applications
-
-</td>
-</tr>
 </table>
 
-🔭 Currently working on **innovative MERN stack projects**
+
 
 🌱 Expanding my expertise in **Cloud Technologies & DevOps**
 
-💬 Ask me about **JavaScript, React, Node.js, Next.js**
-
 📫 Reach me at **asharib920@gmail.com**
-
-⚡ Fun fact: **Code with purpose, build with passion**
 
 </td>
 <td width="40%" valign="top">
